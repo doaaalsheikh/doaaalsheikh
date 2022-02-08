@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doaaalsheikh
 - 👀 I’m interested in Web development, Mobile apps
 - 🌱 I’m currently learning full stack development
-- 📫 How to reach me: 
+- 📫 To reach me: 
       E-mail: doaa.alsheikh@gmail.com
 
 
