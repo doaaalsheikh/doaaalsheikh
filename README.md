@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doaaalsheikh
-- 👀 I’m interested in Web development, Mobile apps
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in Web development, Mobile apps, Graphic design.
+- 🌱 I’m currently learning full stack development.
 - 📫 To reach me: 
       E-mail: doaa.alsheikh@gmail.com
 
