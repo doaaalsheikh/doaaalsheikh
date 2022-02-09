@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @doaaalsheikh
 - 👀 I’m interested in Web development, Mobile apps, Graphic design.
 - 🌱 I’m currently learning full stack development.
+- :earth_africa: I live in Egypt.
 - 📫 To reach me: 
-      E-mail: doaa.alsheikh@gmail.com
+    - E-mail: doaa.alsheikh@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/doaaalsheikh
 
 
 
